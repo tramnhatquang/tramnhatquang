@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 Please reach me at direct message at tramnhatquang@gmail.com.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramnhatquang&show_icons=true&theme=synthwave&include_all_commits=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=github-readme-stats)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramnhatquang&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
+
