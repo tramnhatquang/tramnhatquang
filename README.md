@@ -9,4 +9,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=GuessingGameProject&show_owner=true)](https://github.com/tramnhatquang/GuessingGameProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=GuessingGameProject&show_owner=true)](https://github.com/tramnhatquang/RockPaperScissorsGame)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tramnhatquang&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tramnhatquang&layout=compact)
