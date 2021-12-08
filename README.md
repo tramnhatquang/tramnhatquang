@@ -3,7 +3,7 @@
 - 👀 I’m interested in learning, thriving, and making mistakes in building projects and learning other programming languages.
 - 🌱 I’m currently learning everything. My path is to become a great Data Scientist. 
 - 💞️ I’m looking to collaborate on any interesting projects.
-- 📫 Please reach me at direct message at tramnhatquang@gmail.com.
+- 📫 Please reach me at direct message at dannytram99@gmail.com.
 
 ## Recent Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=GuessingGameProject&show_owner=true)](https://github.com/tramnhatquang/GuessingGameProject)
