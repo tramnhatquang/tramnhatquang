@@ -4,14 +4,14 @@ I want to express my deepest, sincerest gratitude for your precious time and eff
 > **You never fail until you stop trying**
 >                            - Albert Einstein
 ## About me
-My name is Danny Tram, and I graduated from the University of Washington Bothell with a BS Degree majoring in Mathematics and minoring in Computer Science & Software Engineering (CSSE). As a Gen Z, I was born and raised seeing the miraculous and outstanding development of the Internet, or mobile, digital revolution. As a result, I was inspired and motivated by innovations like smartphones, AI, robotics, VR, autonomous vehicles, 3D printers, etc. Eventually, I believe that data can help people make critical decisions to solve complex, significant, and practical problems in reality, which leads me to choose Data Scientist/Data Analyst. Inside me, my endless curiosity and passion guide me to think and solve problems critically, clearly. As a detail-oriented man, I believe I will be a crucial teammate in any team I join along my endless and exciting journey ahead. As Steve
+My name is Danny Tram, and I graduated from the University of Washington Bothell with a BS Degree majoring in Mathematics and minoring in Computer Science & Software Engineering (CSSE). As a Gen Z, I was born and raised seeing the miraculous and outstanding development of the Internet, or mobile, digital revolution. As a result, I was inspired and motivated by innovations like smartphones, AI, robotics, VR, autonomous vehicles, 3D printers, etc. Eventually, I believe that data can help people make critical decisions to solve complex, significant, and practical problems in reality, which leads me to choose Data Scientist/Data Analyst. Inside me, my endless curiosity and passion guide me to think and solve problems critically, clearly. As a detail-oriented man, I believe I will be a crucial teammate in any team I join along my endless and exciting journey ahead.
 
 ## Recent Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=GuessingGameProject&show_owner=true)](https://github.com/tramnhatquang/GuessingGameProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=RockPaperScissorsGame&show_owner=true)](https://github.com/tramnhatquang/RockPaperScissorsGame)
 
 ## More about me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/danny-tram/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-tram/)]
 
 ## My GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tramnhatquang&layout=compact)
