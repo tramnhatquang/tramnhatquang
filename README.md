@@ -42,6 +42,7 @@ My name is Danny Tram, and I graduated from the University of Washington Bothell
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+grep -Po '__.*?__' infile.md | grep -Po '\*.*?\*' | grep -o '[^[:space:]]\+' | wc -l
 
 ## My GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tramnhatquang&layout=compact)
