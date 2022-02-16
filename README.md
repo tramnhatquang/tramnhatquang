@@ -7,9 +7,10 @@ My name is Danny Tram, and I graduated from the University of Washington Bothell
 
 ## Recent Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=GuessingGameProject&show_owner=true)](https://github.com/tramnhatquang/GuessingGameProject)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=RockPaperScissorsGame&show_owner=true)](https://github.com/tramnhatquang/RockPaperScissorsGame) -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=RockPaperScissorsGame&show_owner=true)](RockPaperScissorsGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=RockPaperScissorsGame&show_owner=true)](https://github.com/tramnhatquang/RockPaperScissorsGame)
 
+## More about me
+[LinkedIn](https://www.linkedin.com/in/danny-tram/)
 
 ## My GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tramnhatquang&layout=compact)
