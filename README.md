@@ -1,5 +1,5 @@
 # Welcome to my GitHub page
-Dear recruiters, hiring managers, visitors, friends, colleages, and family, 
+**Dear recruiters, hiring managers, visitors, friends, colleages, and family,** 
 I want to express my deepest, sincerest gratitude for your precious time and effort 
 
 ## About me
