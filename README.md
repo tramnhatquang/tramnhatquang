@@ -48,3 +48,5 @@ My name is Danny Tram, and I graduated from the University of Washington Bothell
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tramnhatquang&layout=compact)
 ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramnhatquang&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
 <br />
+
+### ***Credited***: https://github.com/codeSTACKr/codeSTACKr, https://github.com/Ileriayo/markdown-badges#ideseditors
