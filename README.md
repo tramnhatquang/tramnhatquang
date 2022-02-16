@@ -1,5 +1,5 @@
 # Welcome to my GitHub page
-####**Dear recruiters, hiring managers, visitors, friends, colleagues, and family,** <br />
+#### **Dear recruiters, hiring managers, visitors, friends, colleagues, and family,** <br />
 I want to express my deepest, sincerest gratitude for your precious time and effort in checking out my page. Whether I am accepted or rejected, thank you for at least trusting me and giving me valuable opportunities to fail, learn, change, and contribute to the community/society/world. I hope you have good health and a happy, productive, and successful new day coming ahead. <br />
 > **You never fail until you stop trying**
 >                            - Albert Einstein
