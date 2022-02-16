@@ -50,5 +50,5 @@ My name is Danny Tram, and I graduated from the University of Washington Bothell
 <br />
 
 #### ***Credit***: 
-*https://github.com/codeSTACKr/codeSTACKr 
-*https://github.com/Ileriayo/markdown-badges#ideseditors
+* https://github.com/codeSTACKr/codeSTACKr 
+* https://github.com/Ileriayo/markdown-badges#ideseditors
