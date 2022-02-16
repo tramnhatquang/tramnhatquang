@@ -10,7 +10,7 @@ My name is Danny Tram, and I graduated from the University of Washington Bothell
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=RockPaperScissorsGame&show_owner=true)](https://github.com/tramnhatquang/RockPaperScissorsGame)
 
 ## More about me
-[!LinkedIn](https://www.linkedin.com/in/danny-tram/)(/linkedin-logo.png)
+[!LinkedIn](main/linkedin-logo.png)
 
 ## My GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tramnhatquang&layout=compact)
