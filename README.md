@@ -7,7 +7,7 @@ I want to express my deepest, sincerest gratitude for your precious time and eff
 My name is Danny Tram, and I graduated from the University of Washington Bothell with a BS Degree majoring in Mathematics and minoring in Computer Science & Software Engineering (CSSE). As a Gen Z, I was born and raised seeing the miraculous and outstanding development of the Internet, or mobile, digital revolution. As a result, I was inspired and motivated by innovations like smartphones, AI, robotics, VR, autonomous vehicles, 3D printers, etc. Eventually, I believe that helpful software like OSS (Open-source Sofware) can help people make critical decisions to solve complex, significant, and practical problems in reality, which motivates me to become a Software Engineer/Software Developer. Inside me, my endless curiosity and passion guide me to think and solve problems critically, clearly. As a detail-oriented man, I believe I will be a crucial teammate in any team I join along my endless and exciting journey ahead.
 
 ## Recent Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=GuessingGameProject&show_owner=true)](https://github.com/tramnhatquang/GuessingGameProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=Solutions-Project&show_owner=true)](https://github.com/tramnhatquang/Solutions-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=Transactional-System-Project&show_owner=true)](https://github.com/tramnhatquang/Transactional-System-Project)
 
 ## More about me
