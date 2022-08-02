@@ -1,10 +1,8 @@
-# About me
-As a Gen Z, I was born and raised seeing the miraculous and outstanding development of the Internet, or mobile, digital revolution. As a result, I was inspired and motivated by innovations like smartphones, AI, robotics, VR, autonomous vehicles, 3D printers, etc. Eventually, I believe that helpful software like OSS (Open-source Sofware) can help people make critical decisions to solve complex, significant, and practical problems in reality, which motivates me to become a Software Engineer/Software Developer. Inside me, my endless curiosity and passion guide me to think and solve problems critically, clearly. As a detail-oriented man, I believe I will be a crucial teammate in any team I join along my endless and exciting journey ahead.
 > **You never fail until you stop trying**
 >                            - Albert Einstein
 
 ## Recent Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=Web_Development_Bootcamp_2.0&show_owner=true)](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=CodingBat-Solutions&show_owner=true)](https://github.com/tramnhatquang/CodingBat-Solutions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=Solutions-Project&show_owner=true)](https://github.com/tramnhatquang/Solutions-Project)
 
 ## More about me
