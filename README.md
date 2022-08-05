@@ -3,7 +3,7 @@
 
 ## Recent Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=CodingBat-Solutions&show_owner=true)](https://github.com/tramnhatquang/CodingBat-Solutions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=Solutions-Project&show_owner=true)](https://github.com/tramnhatquang/Solutions-Project)
+<!---[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=Solutions-Project&show_owner=true)](https://github.com/tramnhatquang/Solutions-Project)--->
 
 ## More about me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-tram/)
