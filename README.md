@@ -8,10 +8,9 @@
 
 
 ## Recent Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=SQL-Practice&show_owner=true)](https://github.com/tramnhatquang/SQL-practice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=CodingBat-Solutions&show_owner=true)](https://github.com/tramnhatquang/CodingBat-Solutions)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=LeetCode-Solutions&show_owner=true)](https://github.com/tramnhatquang/LeetCode-Solutions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=HackerRank-Solutions&show_owner=true)](https://github.com/tramnhatquang/HackerRank-Solutions)
+
 
 
 ## More about me
