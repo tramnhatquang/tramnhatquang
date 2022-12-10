@@ -39,6 +39,3 @@
 ![Danny's GitHub stats](https://github-readme-stats.vercel.app/api?username=tramnhatquang&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true)
 <br />
 
-#### ***Credit (README references)***: 
-* https://github.com/codeSTACKr/codeSTACKr 
-* https://github.com/Ileriayo/markdown-badges#ideseditors
