@@ -9,7 +9,7 @@
 
 ## Recent Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=E-commerce-Website-MERN&show_owner=true)](https://github.com/tramnhatquang/E-commerce-Website-MERN)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=LeetCode-Solutions&show_owner=true)](https://github.com/tramnhatquang/LeetCode-Solutions)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tramnhatquang&repo=LeetCode-Solutions&show_owner=true)](https://github.com/tramnhatquang/LeetCode-Solutions) -->
 
 
 
