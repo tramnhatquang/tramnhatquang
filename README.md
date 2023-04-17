@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Danny Tram</h1>
-<h3 align="center">I am a passionate, result-oriented, and curious software engineer who always look for better ways to build software. My true love with Software Development has opened my eyes to learn, work, and collaborate on different, challenging projects and solve complex problems.</h3>
+<h1 align="center">Helloo!!! 👋, I'm Danny!</h1>
+<!-- <h3 align="center">I am a passionate, result-oriented, and curious software engineer who always look for better ways to build software. My true love with Software Development has opened my eyes to learn, work, and collaborate on different, challenging projects and solve complex problems.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tramnhatquang&label=Profile%20views&color=0e75b6&style=flat" alt="tramnhatquang" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tramnhatquang" alt="tramnhatquang" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, MERN, AWS, Azure, Docker**
+- 🌱 I’m currently learning **React, Spring Boot, AWS, Docker, ChatGPT-4, Angular**
 
 - 💬 Ask me about **Java, Python, Spring Boot, Spring framework**
 
-- 📫 How to reach me **danny.n.tram@gmail.com**
+- 📫 How to reach me **danny.n.tram@gmail.com** or at my LinkedIn **https://www.linkedin.com/in/danny-tram/**
 
-- ⚡ Fun fact **I love veggies**
+- ⚡ Fun fact: **I love coffee and tea. They are my daily drivers**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
