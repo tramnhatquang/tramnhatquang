@@ -2,9 +2,11 @@
 <!-- TITLE -->
 <h1 align="center">Helloo!!! 👋, I'm Danny!</h1>
 
-<!-- COLOR AND TROPHY STATS CONFIGURATIONS -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tramnhatquang&label=Profile%20views&color=0e75b6&style=flat" alt="tramnhatquang" /> 
+<!-- PROFILE VIEWS -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tramnhatquang&label=Profile Views&color=blueviolet&style=for-the-badge" alt="tramnhatquang" /> 
 </p>
+
+<!-- TROPHY STATS CONF -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tramnhatquang&theme=monokai&column=-1&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="tramnhatquang" /></a> 
 </p>
 
