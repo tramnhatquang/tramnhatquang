@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tramnhatquang&label=Profile%20views&color=0e75b6&style=flat" alt="tramnhatquang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tramnhatquang" alt="tramnhatquang" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tramnhatquang&theme=dracula" alt="tramnhatquang" /></a> </p>
 
 - 🌱 I’m currently learning **React, Spring Boot, AWS, Docker, ChatGPT-4, Angular**
 
