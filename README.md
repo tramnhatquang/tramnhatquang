@@ -3,7 +3,7 @@
 <h1 align="center">Helloo!!! 👋, Danny here!</h1>
 
 <!-- PROFILE VIEWS -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tramnhatquang&label=Profile Views&color=blueviolet&style=for-the-badge" alt="tramnhatquang" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tramnhatquang&label=Profile Views&color=blueviolet&style=for-the-badge" alt="tramnhatquang" /> 
 </p>
 
 <!-- TROPHY STATS CONF -->
@@ -35,7 +35,7 @@
 
 <!-- README STATS -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tramnhatquang&show_icons=true&locale=en&layout=compact&theme=radical" alt="tramnhatquang" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tramnhatquang&show_icons=true&locale=en&layout=compact&theme=radical" alt="tramnhatquang" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tramnhatquang&show_icons=true&locale=en&theme=radical" alt="tramnhatquang" /></p>
 
