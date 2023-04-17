@@ -1,6 +1,6 @@
 
 <!-- TITLE -->
-<h1 align="center">Helloo!!! 👋, I'm Danny!</h1>
+<h1 align="center">Helloo!!! 👋, Danny here!</h1>
 
 <!-- PROFILE VIEWS -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tramnhatquang&label=Profile Views&color=blueviolet&style=for-the-badge" alt="tramnhatquang" /> 
