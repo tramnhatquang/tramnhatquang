@@ -11,7 +11,7 @@
 <!-- FUN FACT Section -->
 - 🌱 I’m currently learning **React, Spring Boot, AWS, Docker, ChatGPT-4, Angular**
 
-- 💬 Ask me about: **Java, Python, Spring Boot, Spring framework**
+- 💬 Ask me about: **Java, Spring Boot, Spring framework, Python, OOD, OOP**
 
 - 📫 Please reache me at:  **danny.n.tram@gmail.com** or at my LinkedIn **https://www.linkedin.com/in/danny-tram/**
 
