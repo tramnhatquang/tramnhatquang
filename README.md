@@ -12,7 +12,7 @@
 
 - 💬 Ask me about: **Java, Spring Boot, Spring framework, Python, OOD, OOP**
 
-- 📫 Please reache me at:  **danny.n.tram@gmail.com** or at my LinkedIn **https://www.linkedin.com/in/danny-tram/**
+- 📫 Please reach me at:  **danny.n.tram@gmail.com** or at my LinkedIn **https://www.linkedin.com/in/danny-tram/**
 
 - ⚡ Fun fact: **I love coffee and tea. They are my daily drivers**
 
