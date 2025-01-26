@@ -8,7 +8,7 @@
 </p>
 
 <!-- FUN FACT Section -->
-- 🌱 I’m currently learning **React, Spring Boot, AWS, Docker, ChatGPT-4, Angular**
+- 🌱 I’m currently learning **Scikit Learn, GenAI, and AI/ML world**
 
 - 💬 Ask me about: **Java, Spring Boot, Spring framework, Python, OOD, OOP**
 
